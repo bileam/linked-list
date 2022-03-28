@@ -1,3 +1,6 @@
+berikut merupakan printscream output hasil kodingan pada challange 
+
+
 gambar 1.
 ![(1)daftar menu](https://user-images.githubusercontent.com/99231083/160396545-7f4e7007-e312-43f4-b2ae-91419991e21b.png)
 (pada gambar 1 merupakan menu utama)
